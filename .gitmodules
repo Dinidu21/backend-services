@@ -1,0 +1,9 @@
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/Dinidu21/user-service.git
+[submodule "event-booking-service"]
+	path = event-booking-service
+	url = https://github.com/Dinidu21/event-booking-service.git
+[submodule "review-notification-service"]
+	path = review-notification-service
+	url = https://github.com/Dinidu21/review-notification-service.git
