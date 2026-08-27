@@ -2,6 +2,13 @@
 
 Business microservices layer for the EventSphere platform. This directory contains the core domain services that implement event booking, user management, and review functionality.
 
+## Student Information
+
+- **Student Name:** Dinidu Sachintha
+- **Student Number:** 241711028
+- **Slack Handle:** [U0BF767MA4S](https://ijse-eca-hdse-71-72.slack.com/team/U0BF767MA4S)
+- **GCP Project ID:** eventsphere-504909
+
 ## Services
 
 ### User Service
